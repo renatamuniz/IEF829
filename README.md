@@ -19,13 +19,37 @@ Repositório da disciplina Informática no Ensino da Física
 
 $\textcolor{red}{\text{Quem criou a linguagem Markdown?}}$
 
-- [ ] Aaron Swatz
-- [X] Aaron S. e John G.
-- [ ] John Gruber
+- [ ] Aaron Swatz :heavy_multiplication_x:
+- [X] Aaron S. e John G. :heavy_check_mark:
+- [ ] John Gruber :heavy_multiplication_x:
 
 **Saiba mais em:**  <https://pt.wikipedia.org/wiki/Markdown>
-## Título nível 2
+
+## Lei de Indução de Faraday na forma diferencial
+$\vec{\nabla} \times \vec{E} = - \dfrac{\partial \vec{B}}{\partial t}$
+## Segunda Lei de Newton
+$$\vec{F_{R}}=\dfrac{d}{dt}(m\vec{v})$$
+
+
 ### Título nível 3
 #### Título nível 4
 ##### Título nível 5
 ###### Título nível 6
+
+
+| coluna 1 | coluna 2 | coluna 3|
+| --- | --- | --- |
+| X | Y | Z |
+| A | B | C |
+
+| coluna 1 | coluna 2 | coluna 3|
+| ---: | ---: | ---: |
+| X | Y | Z |
+| A | B | C |
+
+| coluna 1 | coluna 2 | coluna 3|
+| :---: | :---: | :---: |
+| X | Y | Z |
+| A | B | C |
+
+
