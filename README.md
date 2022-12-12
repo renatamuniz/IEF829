@@ -43,7 +43,7 @@ $$\vec{F_{R}}=\dfrac{d}{dt}(m\vec{v})$$
 
 | coluna 1 | coluna 2 | coluna 3|
 | --- | --- | --- |
-| X | Y | Z |
+| $\vec{F_{R}}$ | Y | Z |
 | A | B | C |
 
 | coluna 1 | coluna 2 | coluna 3|
