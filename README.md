@@ -43,7 +43,7 @@ $$\vec{F_{R}}=\dfrac{d}{dt}(m\vec{v})$$
 
 | coluna 1 | coluna 2 | coluna 3|
 | --- | --- | --- |
-| $\vec{F_{R}}$ | Y | Z |
+| $\vec{F_{R}}$ | $$E=\dfrac{mv^{2}}{2}$$ | Z |
 | A | B | C |
 
 | coluna 1 | coluna 2 | coluna 3|
@@ -56,4 +56,4 @@ $$\vec{F_{R}}=\dfrac{d}{dt}(m\vec{v})$$
 | X | Y | Z |
 | A | B | C |
 
-
+$$v^2$$
